@@ -1,5 +1,6 @@
 # 👩🏻‍💻 Gustavo Germano
 
+**`Suporte de TI`**
 **`Desenvolvedor`**
 **`Professor`**
 
@@ -7,6 +8,9 @@ Sou desenvolvedor web, com experiência em JavaScript, HTML/CSS, UX/UI e React, 
 
 Tenho base sólida em desenvolvimento front-end, com experiência em aplicações web, consumo de APIs REST, versionamento com Git/GitHub e práticas de clean code. Sigo aprimorando minhas habilidades para contribuir em projetos inovadores e evoluir continuamente na carreira.
 
+---
+
+### 💻Conecte-se comigo
 <p>
   <a href="https://www.linkedin.com/in/gustavo-germano-ti/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
