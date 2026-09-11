@@ -10,7 +10,7 @@ Tenho base sólida em desenvolvimento front-end, com experiência em aplicaçõe
 
 ---
 
-### 💻Conecte-se comigo
+### 💻 Conecte-se comigo
 <p>
   <a href="https://www.linkedin.com/in/gustavo-germano-ti/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
