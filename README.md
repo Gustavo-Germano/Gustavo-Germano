@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gustavo Germano
+# 👩🏻‍💻 Gustavo Lopes Germano
 
 **`Suporte de TI`**
 **`Desenvolvedor`**
